@@ -36,7 +36,7 @@
 
 <h1>Databases</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,aws,azure,gcp,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,aws,azure,gcp,mongodb)](https://skillicons.dev)![My Skills](https://simpleskill.icons.workers.dev/svg?i=microsoftsqlserver)
 
 <h1>OS</h1>
 
@@ -46,7 +46,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,github,git,latex,notion,postman,figma,ps)](https://skillicons.dev)
 
-
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=powerbi,powerapps,powerpages,powervirtualagents,powerautomate,microsoftexcel)
 
 
 
