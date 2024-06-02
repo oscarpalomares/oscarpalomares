@@ -28,7 +28,7 @@
 
 <h1>Programming Languages</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,css,html,js,java,php,py,react,graphql,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,css,html,js,java,php,py,react,graphql,swift&perline=6)](https://skillicons.dev)
 
 <h1>Frameworks</h1>
 
