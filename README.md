@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar Palomares</h1>
 <h3 align="center">A Passionate Software Engineer From Mexico.</h3>
 
-- 🔭 I’m currently working at **Viatris as an IT intern.**
+- 🔭 I’m currently working at **Hogarth Mexico as an IT Coordinator.**
 
 - 🧑🏻‍💻 Currently learning **Web Development**
 
